@@ -110,9 +110,9 @@ A personal portfolio website showcasing my skills and projects.
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn —[ Add your link here](https://www.linkedin.com/in/gokul-raj-r-282b32264/)
+💼 LinkedIn —[Click Here](https://www.linkedin.com/in/gokul-raj-r-282b32264/)
 
-🌐 Portfolio — [Add your link here](https://gokul-raj45.github.io/My_Portfolio/)
+🌐 Portfolio — [Click Here](https://gokul-raj45.github.io/My_Portfolio/)
 
 📧 Email — gokulraj922005@gmail.com
 
