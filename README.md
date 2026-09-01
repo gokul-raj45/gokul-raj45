@@ -102,15 +102,6 @@ A personal portfolio website showcasing my skills and projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-raj45&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-raj45&layout=compact&theme=tokyonight)
-
-</div>
 ## 📊 GitHub Activity
 
 I actively work on projects and continuously improve my development skills through hands-on practice.
